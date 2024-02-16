@@ -29,3 +29,8 @@ Source des données :
 Rapide étude de marché - sources :
 
     CNC centre national du cinéma et de l’image animée
+
+
+
+VOIR L'APPLICATION EN FONCTIONNEMENT !
+lien : https://cin-click-id89quuhq5zpr47jwkqyas.streamlit.app/
