@@ -14,6 +14,10 @@ Projet "Wild Code School" n°2 - Système de recommandation
     Scikit-Learn
     Streamlit (création d'app)
 
+    
+Projet réalisé avec mes collègues Maxime et Théo
+
+
 Problématique :
 
 Création d'un système de recommandation de films pour le compte d'un gérant de cinéma, situé dans la Creuse, dans le but de l'aider à la sélection de films pour ses clients locaux (client fictif)
